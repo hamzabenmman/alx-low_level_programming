@@ -9,6 +9,7 @@
 int main(void)
 {
 	int d;
+	int c;
 
 	for (d = 0; d < 90; d++)
 	{
